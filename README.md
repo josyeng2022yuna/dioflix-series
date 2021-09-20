@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# dioflix-series
-Primeiro projeto criado da DIO
-=======
 # ApiCatalogoJogos
->>>>>>> 3e172786b6938708163f1082846c89cadcfebb58
+ 
+
+ Primeiro projeto em C# que fornece uma lista de jogos via Api.
