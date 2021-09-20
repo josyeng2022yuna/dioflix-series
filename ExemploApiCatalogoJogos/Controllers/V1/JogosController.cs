@@ -20,6 +20,7 @@ namespace ExemploApiCatalogoJogos.Controllers.V1
         public JogosController(IJogoService jogoService)
         {
             _jogoService = jogoService;
+            // Atribuindo variavel
         }
 
         /// <summary>
